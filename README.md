@@ -11,7 +11,7 @@ IAC para publicar o stack do My Barber, com API, Banco de dados MySQL e Promethe
 
 ## Instruções 
 
-`
+```
 # para limpar o diretorio
 make clean
 
@@ -23,4 +23,4 @@ make run
 
 # para derrubar os containers
 make stop
-`
+```
