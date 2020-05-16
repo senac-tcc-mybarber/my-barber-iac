@@ -15,7 +15,7 @@ IAC para publicar o stack do My Barber, com API, Banco de dados MySQL e Promethe
 # para limpar o diretorio
 make clean
 
-# para baixar , buildar e dockerizar o may-barber-api
+# para baixar, buildar e dockerizar o my-barber-api
 make build
 
 # para levantar os containers
