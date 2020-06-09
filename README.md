@@ -24,11 +24,5 @@ make run
 # para derrubar os containers
 make stop
 
-# Após levantar os containers 
- 1. Acessar o Grafana via http://localhost:3030
- 2. Acessar gerenciador de Dashboards ( símbolo 4 quadradinhos no menu vertical à esquerda) -> Manage
- 3. Clicar em "Import" e carregar o arquivo dashboard.json disponivel no rep IAC
- 4. Por último, selecionar um timer para refresh automatico no canto superior direito do dashboard. Ao atualizar, os dados começam a ser populados.
-
 ```
 
