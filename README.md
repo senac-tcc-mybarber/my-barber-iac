@@ -1,6 +1,6 @@
 # my-barber-iac
 
-IAC para publicar o stack do My Barber, com API, Banco de dados MySQL e Prometheus
+IAC para publicar o stack do My Barber, com API, Banco de dados MySQL, Prometheus e Grafana
 
 
 ## Requisitos
