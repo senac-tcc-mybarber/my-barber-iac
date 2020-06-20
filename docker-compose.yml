@@ -25,6 +25,9 @@ services:
     app:
        image: mybarber/app:latest
        container_name: maybarberapp
+       environment:
+           HOST: 0.0.0.0
+           CONFIGURATION: production
        ports:
             - '4200:4200'
 
